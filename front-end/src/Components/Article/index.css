@@ -1,0 +1,67 @@
+.tittle_article {
+    font-size: 3.2rem;
+    margin-top: 4.8rem;
+    margin-bottom: 1.5rem;
+}
+
+article {
+    background-color: #00070A;
+    max-width: 30.4rem;
+    max-height: 46.2rem;
+    width: 100%;
+
+    position: relative;
+}
+
+.article__card_top {
+    display: flex;
+    flex-direction: column;
+
+    
+}
+
+.article__icon_heart {
+    width: 2.4rem;
+    height: 2.2rem;
+
+    margin: 1.6rem 1.8rem 0 0;
+    right: 0;
+    position: absolute;
+}
+
+.article__unicoPrato {
+    width: 17.6rem;
+    height: 17.6rem;
+
+    margin: 2.4rem 6.4rem 1.5rem 6.4rem;
+}
+article legend {
+    font-size: 2.4rem;
+    font-weight: bold;
+}
+
+article p {
+    font-size: 1.6rem;
+}
+
+article legend, article p {
+    text-align: center;
+    margin-top: 1.5rem;
+}
+
+.article__price {
+    font-size: 3.2rem;
+    color: #82F3FF;
+
+    margin-top: 1.4rem;
+}
+
+.article__card_bot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 1.4rem;
+    padding: 0 4.8rem 3.2rem 4.8rem;
+    gap: 1.4rem;
+}
