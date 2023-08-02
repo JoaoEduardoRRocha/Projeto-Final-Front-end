@@ -1,7 +1,6 @@
 import React from "react";
 import "./index.css";
 
-// navbar
 export default function Navbar() {
 
     return (
