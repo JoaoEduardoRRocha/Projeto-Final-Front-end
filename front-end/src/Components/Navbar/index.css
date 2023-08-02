@@ -1,5 +1,7 @@
 nav {
     background-color: #00111A;
+    outline: none;
+    border: none;
 
     display: flex;
     align-items: center;
