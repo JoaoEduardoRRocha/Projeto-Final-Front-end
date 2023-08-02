@@ -1,7 +1,7 @@
 import React from "react";
 import "./index.css";
 
-import cookie from "../../assets/cookiesHome.png"
+import cookie from "../../assets/cookies.svg"
 
 export default function Section() {
 

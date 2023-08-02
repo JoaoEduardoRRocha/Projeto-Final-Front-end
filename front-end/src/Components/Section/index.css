@@ -6,6 +6,7 @@ section {
 
     margin: auto;
     max-width: 110.2rem;
+    
 }
 
 .section__cookies {
@@ -19,7 +20,7 @@ section {
     background: linear-gradient(90deg, rgb(2, 13, 49) 0%, rgba(0,19,28,1) 100%, rgba(0,212,255,1) 100%);
     border-radius: 0.8rem;
     
-    width: 110.2;
+    width: 110.2rem;
     height: 26rem;
 
     padding-top: 8rem;
